@@ -13,6 +13,9 @@ www.reddit.com reddit.map.fastly.net * noop
 www.reddit.com redditmedia.com * noop
 www.reddit.com redditstatic.com * noop
 
+vimm.net fonts.googleapis.com * noop
+vimm.net gstatic.com * noop
+
 www.youtube.com fonts.googleapis.com * noop
 www.youtube.com ggpht.com * noop
 www.youtube.com google.com * noop
