@@ -1,1 +1,2 @@
 www.reddit.com##span.contents > .m\:block.hidden
+www.reddit.com##.bg-neutral-background-weak.p-md.rounded-md.gap-xs.items-center.justify-center.flex-col.xs\:flex.hidden
