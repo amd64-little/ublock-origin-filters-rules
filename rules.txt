@@ -8,6 +8,8 @@ github.com githubassets.com * noop
 www.mariokart64.com fonts.googleapis.com * noop
 www.mariokart64.com gstatic.com * noop
 
+support.mozilla.org mozgcp.net * noop
+
 www.reddit.com redd.it * noop
 www.reddit.com reddit.map.fastly.net * noop
 www.reddit.com redditmedia.com * noop
