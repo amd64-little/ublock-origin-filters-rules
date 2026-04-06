@@ -1,3 +1,6 @@
+! Remove temporary pop-up to sign in on www.amazon.com.au.
+www.amazon.com.au##.nav-flyout.nav-signin-tt
+
 ! Remove the 'Get App' button on www.reddit.com.
 www.reddit.com##span.contents > .m\:block.hidden
 
