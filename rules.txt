@@ -15,6 +15,9 @@ www.mariokart64.com gstatic.com * noop
 
 support.mozilla.org mozgcp.net * noop
 
+www.openstreetbrowser.org fastly.net * noop
+www.openstreetbrowser.org openstreetmap.org * noop
+
 www.reddit.com redd.it * noop
 www.reddit.com reddit.map.fastly.net * noop
 www.reddit.com redditmedia.com * noop
