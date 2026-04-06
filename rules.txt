@@ -4,6 +4,8 @@
 
 www.facebook.com fbcdn.net * noop
 
+discussion.fedoraproject.org discourse-cdn.com * noop
+
 github.com avatars.githubusercontent.com * noop
 github.com githubassets.com * noop
 
