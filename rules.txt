@@ -5,6 +5,7 @@
 github.com avatars.githubusercontent.com * noop
 github.com githubassets.com * noop
 
+www.google.com googleusercontent.com * noop
 www.google.com gstatic.com * noop
 
 www.linuxquestions.org cloudflare.com * noop
