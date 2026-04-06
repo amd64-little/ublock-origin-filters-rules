@@ -4,6 +4,9 @@ www.amazon.com.au##.nav-flyout.nav-signin-tt
 ! Remove temporary pop-up to check if the postcode is correct on www.amazon.com.au.
 www.amazon.com.au##.nav-flyout.nav-coreFlyout.glow-toaster-slot-default.glow-toaster-theme-default.glow-toaster.a-section
 
+! Remove share button on product pages for www.amazon.com.au.
+||m.media-amazon.com/images/G/01/share-icons/share-std.svg$image
+
 ! Remove the 'Get App' button on www.reddit.com.
 www.reddit.com##span.contents > .m\:block.hidden
 
