@@ -2,7 +2,9 @@
 * * 3p-frame block
 * * 3p-script block
 
+www.amazon.com.au dscr.akamai.net * noop
 www.amazon.com.au media-amazon.com * noop
+www.amazon.com.au ssl-images-amazon.com * noop
 
 www.facebook.com fbcdn.net * noop
 
