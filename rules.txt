@@ -2,6 +2,8 @@
 * * 3p-frame block
 * * 3p-script block
 
+www.facebook.com fbcdn.net * noop
+
 github.com avatars.githubusercontent.com * noop
 github.com githubassets.com * noop
 
