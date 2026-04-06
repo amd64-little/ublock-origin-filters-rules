@@ -1,3 +1,6 @@
 www.reddit.com##span.contents > .m\:block.hidden
 www.reddit.com##.bg-neutral-background-weak.p-md.rounded-md.gap-xs.items-center.justify-center.flex-col.xs\:flex.hidden
 www.reddit.com##.px-md.pb-\[22px\].pt-md.mt-md.rounded-4.bg-neutral-background-weak.xs\:block.hidden
+
+www.reddit.com##.relative.xs\:rounded-4.hover\:bg-neutral-background-hover.search-answers-preview-section
+www.reddit.com##.xs\:my-md.my-2xs.xs\:mx-md.border-b-neutral-border-weak.border-solid.border-b-sm.border-0
