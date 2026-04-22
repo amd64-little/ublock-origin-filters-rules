@@ -6,6 +6,9 @@ www.amazon.com.au dscr.akamai.net * noop
 www.amazon.com.au media-amazon.com * noop
 www.amazon.com.au ssl-images-amazon.com * noop
 
+www.ebay.com.au ebaystatic.com * noop
+www.ebay.com.au r.akamai.net * noop
+
 www.facebook.com fbcdn.net * noop
 
 discussion.fedoraproject.org discourse-cdn.com * noop
