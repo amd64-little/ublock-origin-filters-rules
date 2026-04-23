@@ -40,6 +40,7 @@ www.reddit.com redditstatic.com * noop
 
 www.startpage.com dhnphulxyocf.cloudfront.net * noop
 
+steamcommunity.com dscb.akamai.net * noop
 steamcommunity.com steamstatic.com * noop
 
 vimm.net fonts.googleapis.com * noop
