@@ -33,6 +33,8 @@ www.openstreetbrowser.org fastly.net * noop
 www.openstreetbrowser.org openstreetmap.org * noop
 www.openstreetbrowser.org overpass-api.de * noop
 
+discuss.python.org discourse-cdn.com * noop
+
 www.reddit.com redd.it * noop
 www.reddit.com reddit.map.fastly.net * noop
 www.reddit.com redditmedia.com * noop
