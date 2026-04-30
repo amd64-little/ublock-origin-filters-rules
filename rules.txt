@@ -42,6 +42,8 @@ www.reddit.com reddit.map.fastly.net * noop
 www.reddit.com redditmedia.com * noop
 www.reddit.com redditstatic.com * noop
 
+www.resetera.com cloudflare.com * noop
+
 www.startpage.com dhnphulxyocf.cloudfront.net * noop
 
 steamcommunity.com dscb.akamai.net * noop
