@@ -37,6 +37,7 @@ www.openstreetbrowser.org overpass-api.de * noop
 
 discuss.python.org discourse-cdn.com * noop
 
+www.reddit.com it.cdn.cloudflare.net * noop
 www.reddit.com redd.it * noop
 www.reddit.com reddit.map.fastly.net * noop
 www.reddit.com redditmedia.com * noop
