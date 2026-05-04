@@ -8,6 +8,8 @@ www.amazon.com.au ssl-images-amazon.com * noop
 
 codeberg.page codeberg.org * noop
 
+discord.com website-files.com * noop
+
 www.ebay.com.au ebay.map.fastly.net * noop
 www.ebay.com.au ebaystatic.com * noop
 
