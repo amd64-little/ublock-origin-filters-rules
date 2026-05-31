@@ -27,6 +27,9 @@ github.com raw.githubusercontent.com * noop
 www.google.com googleusercontent.com * noop
 www.google.com gstatic.com * noop
 
+hackerone.com dzladl4fbgrhb.cloudfront.net * noop
+hackerone.com hackerone-user-content.com * noop
+
 kaksikoivua.hashnode.dev cloudflare.com * noop
 
 www.ifixit.com d1ulmmr4d4i8j4.cloudfront.net * noop
