@@ -57,6 +57,9 @@ www.reddit.com redditstatic.com * noop
 
 www.resetera.com cloudflare.com * noop
 
+www.speedrun.com dscg1.akamai.net * noop
+www.speedrun.com typekit.net * noop
+
 www.startpage.com dhnphulxyocf.cloudfront.net * noop
 
 steamcommunity.com dscb.akamai.net * noop
