@@ -8,6 +8,7 @@ www.amazon.com.au ssl-images-amazon.com * noop
 
 codeberg.page codeberg.org * noop
 
+discord.com cloudflare.com * noop
 discord.com discord.gg * noop
 discord.com discordapp.com * noop
 discord.com website-files.com * noop
