@@ -31,6 +31,8 @@ accounts.google.com gstatic.com * noop
 docs.google.com fonts.googleapis.com * noop
 docs.google.com gstatic.com * noop
 
+gds.google.com gstatic.com * noop
+
 www.google.com googleusercontent.com * noop
 www.google.com gstatic.com * noop
 
