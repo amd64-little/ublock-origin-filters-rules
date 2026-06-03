@@ -26,6 +26,9 @@ github.com avatars.githubusercontent.com * noop
 github.com githubassets.com * noop
 github.com raw.githubusercontent.com * noop
 
+docs.google.com fonts.googleapis.com * noop
+docs.google.com gstatic.com * noop
+
 www.google.com googleusercontent.com * noop
 www.google.com gstatic.com * noop
 
