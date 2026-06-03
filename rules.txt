@@ -96,6 +96,7 @@ x.com twitter.map.fastly.net * noop
 www.youtube.com fonts.googleapis.com * noop
 www.youtube.com ggpht.com * noop
 www.youtube.com google.com * noop
+www.youtube.com googleusercontent.com * noop
 www.youtube.com googlevideo.com * noop
 www.youtube.com gstatic.com * noop
 www.youtube.com ytimg.com * noop
