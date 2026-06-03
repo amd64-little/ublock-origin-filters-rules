@@ -83,6 +83,9 @@ vx-underground.org cloudflare.com * noop
 
 en.wikipedia.org wikimedia.org * noop
 
+x.com twimg.com * noop
+x.com twitter.map.fastly.net * noop
+
 www.youtube.com fonts.googleapis.com * noop
 www.youtube.com ggpht.com * noop
 www.youtube.com google.com * noop
