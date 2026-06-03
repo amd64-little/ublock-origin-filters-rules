@@ -83,6 +83,7 @@ vx-underground.org cloudflare.com * noop
 
 en.wikipedia.org wikimedia.org * noop
 
+x.com com.cdn.cloudflare.net * noop
 x.com twimg.com * noop
 x.com twitter.map.fastly.net * noop
 
