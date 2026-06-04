@@ -65,6 +65,8 @@ www.ifixit.com d3nevzfk7ii3be.cloudfront.net * noop
 www.ifixit.com da2lh5cs8ikqj.cloudfront.net * noop
 www.ifixit.com shopify.com * noop
 
+www.instructables.com d38kwnbqqt6im9.cloudfront.net * noop
+
 kernel.org fastly.net * noop
 
 www.linuxquestions.org cloudflare.com * noop
