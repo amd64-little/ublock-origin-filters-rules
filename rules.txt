@@ -101,7 +101,12 @@ open.spotify.com spotifycdn.com * noop
 open.spotify.com spotifycdn.map.fastly.net * noop
 
 qobuz.squid.wtf d250ptlkmugbjz.cloudfront.net * noop
+qobuz.squid.wtf dscv.akamai.net * noop
+qobuz.squid.wtf jsdelivr.map.fastly.net * noop
+qobuz.squid.wtf jsdelivr.net * noop
 qobuz.squid.wtf qobuz.com * noop
+qobuz.squid.wtf streaming-qobuz-std.akamaized.net * noop
+qobuz.squid.wtf unpkg.com * noop
 
 www.startpage.com dhnphulxyocf.cloudfront.net * noop
 
