@@ -22,6 +22,7 @@ signin.ebay.com.au a.akamaiedge.net * noop
 signin.ebay.com.au ebay.map.fastly.net * noop
 signin.ebay.com.au ebaystatic.com * noop
 
+www.ebay.com.au a.akamaiedge.net * noop
 www.ebay.com.au ebay.map.fastly.net * noop
 www.ebay.com.au ebayimg-0.map.fastly.net * noop
 www.ebay.com.au ebayimg.com * noop
