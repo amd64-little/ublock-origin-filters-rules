@@ -97,6 +97,9 @@ www.resetera.com cloudflare.com * noop
 www.speedrun.com dscg1.akamai.net * noop
 www.speedrun.com typekit.net * noop
 
+open.spotify.com spotifycdn.com * noop
+open.spotify.com spotifycdn.map.fastly.net * noop
+
 qobuz.squid.wtf d250ptlkmugbjz.cloudfront.net * noop
 qobuz.squid.wtf qobuz.com * noop
 
