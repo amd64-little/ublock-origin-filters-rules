@@ -15,6 +15,8 @@ discord.com discordapp.net * noop
 discord.com website-files.com * noop
 
 www.ebay.com.au ebay.map.fastly.net * noop
+www.ebay.com.au ebayimg-0.map.fastly.net * noop
+www.ebay.com.au ebayimg.com * noop
 www.ebay.com.au ebaystatic.com * noop
 
 www.facebook.com fbcdn.net * noop
