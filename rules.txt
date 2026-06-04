@@ -82,6 +82,8 @@ www.openstreetbrowser.org overpass-api.de * noop
 
 www.privacyguides.org b-cdn.net * noop
 
+proton.me protonweb.com * noop
+
 discuss.python.org discourse-cdn.com * noop
 
 www.reddit.com it.cdn.cloudflare.net * noop
