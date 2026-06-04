@@ -22,3 +22,6 @@ www.reddit.com##.px-md.pb-\[22px\].pt-md.mt-md.rounded-4.bg-neutral-background-w
 ! Remove 'Answers' box from search results on www.reddit.com.
 www.reddit.com##.relative.xs\:rounded-4.hover\:bg-neutral-background-hover.search-answers-preview-section
 www.reddit.com##.xs\:my-md.my-2xs.xs\:mx-md.border-b-neutral-border-weak.border-solid.border-b-sm.border-0
+
+! Remove sponsored banners for item searchs for https://www.ebay.com.au.
+www.ebay.com.au###placement100379
