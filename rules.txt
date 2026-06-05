@@ -39,6 +39,7 @@ discussion.fedoraproject.org discourse-cdn.com * noop
 discussion.fedoraproject.org kxcdn.com * noop
 
 github.com avatars.githubusercontent.com * noop
+github.com camo.githubusercontent.com * noop
 github.com githubassets.com * noop
 github.com private-user-images.githubusercontent.com * noop
 github.com raw.githubusercontent.com * noop
