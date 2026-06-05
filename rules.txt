@@ -40,6 +40,7 @@ discussion.fedoraproject.org kxcdn.com * noop
 
 github.com avatars.githubusercontent.com * noop
 github.com githubassets.com * noop
+github.com private-user-images.githubusercontent.com * noop
 github.com raw.githubusercontent.com * noop
 
 accounts.google.com gstatic.com * noop
