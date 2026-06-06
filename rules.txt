@@ -100,6 +100,9 @@ remywiki.com cloudflare.com * noop
 
 www.resetera.com cloudflare.com * noop
 
+soundcloud.com d15wdfb2rw9n2y.cloudfront.net * noop
+soundcloud.com sndcdn.com * noop
+
 www.speedrun.com dscg1.akamai.net * noop
 www.speedrun.com typekit.net * noop
 
