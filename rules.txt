@@ -80,6 +80,8 @@ www.mariokart64.com gstatic.com * noop
 
 support.mozilla.org mozgcp.net * noop
 
+musicbrainz.org metabrainz.org * noop
+
 www.openstreetbrowser.org fastly.net * noop
 www.openstreetbrowser.org openstreetmap.org * noop
 www.openstreetbrowser.org overpass-api.de * noop
