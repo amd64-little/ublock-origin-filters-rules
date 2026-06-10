@@ -113,6 +113,7 @@ soundcloud.com sndcdn.com * noop
 
 www.speedrun.com dscg1.akamai.net * noop
 www.speedrun.com google.com * noop
+www.speedrun.com googlevideo.com * noop
 www.speedrun.com typekit.net * noop
 www.speedrun.com youtube.com * noop
 www.speedrun.com ytimg.com * noop
