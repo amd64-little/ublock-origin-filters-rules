@@ -112,7 +112,9 @@ soundcloud.com dezyktpp25vy8.cloudfront.net * noop
 soundcloud.com sndcdn.com * noop
 
 www.speedrun.com dscg1.akamai.net * noop
+www.speedrun.com google.com * noop
 www.speedrun.com typekit.net * noop
+www.speedrun.com youtube.com * noop
 
 open.spotify.com spotifycdn.com * noop
 open.spotify.com spotifycdn.map.fastly.net * noop
