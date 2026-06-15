@@ -96,11 +96,14 @@ proton.me protonweb.com * noop
 
 discuss.python.org discourse-cdn.com * noop
 
+www.reddit.com google.com * noop
+www.reddit.com googlevideo.com * noop
 www.reddit.com it.cdn.cloudflare.net * noop
 www.reddit.com redd.it * noop
 www.reddit.com reddit.map.fastly.net * noop
 www.reddit.com redditmedia.com * noop
 www.reddit.com redditstatic.com * noop
+www.reddit.com youtube-nocookie.com * noop
 www.reddit.com ytimg.com * noop
 
 remywiki.com cloudflare.com * noop
