@@ -101,6 +101,7 @@ www.reddit.com redd.it * noop
 www.reddit.com reddit.map.fastly.net * noop
 www.reddit.com redditmedia.com * noop
 www.reddit.com redditstatic.com * noop
+www.reddit.com ytimg.com * noop
 
 remywiki.com cloudflare.com * noop
 
