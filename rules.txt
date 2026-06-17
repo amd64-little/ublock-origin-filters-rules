@@ -6,6 +6,9 @@ www.amazon.com.au dscr.akamai.net * noop
 www.amazon.com.au media-amazon.com * noop
 www.amazon.com.au ssl-images-amazon.com * noop
 
+apps.apple.com apple.map.fastly.net * noop
+apps.apple.com mzstatic.com * noop
+
 codeberg.page codeberg.org * noop
 
 discord.com cloudflare.com * noop
