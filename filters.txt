@@ -25,3 +25,7 @@ www.reddit.com##.xs\:my-md.my-2xs.xs\:mx-md.border-b-neutral-border-weak.border-
 
 ! Remove sponsored banners for item searchs for https://www.ebay.com.au.
 www.ebay.com.au###placement100379
+
+! Remove AI overview when searching on www.reddit.com.
+www.reddit.com##.search-answers-streaming-preview-text.nd\:hidden
+www.reddit.com##.items-center.justify-between.flex.pb-2xs.pt-sm.px-md
