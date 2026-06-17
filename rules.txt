@@ -97,6 +97,10 @@ www.privacyguides.org b-cdn.net * noop
 
 proton.me protonweb.com * noop
 
+pwn.college google.com * noop
+pwn.college youtube.com * noop
+pwn.college ytimg.com * noop
+
 discuss.python.org discourse-cdn.com * noop
 
 www.reddit.com google.com * noop
