@@ -99,6 +99,7 @@ proton.me protonweb.com * noop
 
 pwn.college google.com * noop
 pwn.college googlevideo.com * noop
+pwn.college gstatic.com * noop
 pwn.college youtube.com * noop
 pwn.college ytimg.com * noop
 
