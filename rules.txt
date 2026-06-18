@@ -124,6 +124,7 @@ soundcloud.com d36lkcxq7qra7v.cloudfront.net * noop
 soundcloud.com dezyktpp25vy8.cloudfront.net * noop
 soundcloud.com sndcdn.com * noop
 
+www.speedrun.com cloudflare.com * noop
 www.speedrun.com dscg1.akamai.net * noop
 www.speedrun.com google.com * noop
 www.speedrun.com googlevideo.com * noop
