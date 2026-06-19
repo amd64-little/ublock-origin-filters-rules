@@ -14,6 +14,8 @@ recharge.boost.com.au recaptcha.net * noop
 
 codeberg.page codeberg.org * noop
 
+www.codebymath.com bootstrapcdn.com * noop
+
 discord.com cloudflare.com * noop
 discord.com discord.gg * noop
 discord.com discordapp.com * noop
