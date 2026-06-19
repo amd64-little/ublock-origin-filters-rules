@@ -69,6 +69,8 @@ www.google.com gstatic.com * noop
 hackerone.com dzladl4fbgrhb.cloudfront.net * noop
 hackerone.com hackerone-user-content.com * noop
 
+www.hackerrank.com website-files.com * noop
+
 kaksikoivua.hashnode.dev cloudflare.com * noop
 
 www.ifixit.com algolianet.com * noop
