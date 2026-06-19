@@ -104,6 +104,11 @@ musicbrainz.org acoustid.org * noop
 musicbrainz.org archive.org * noop
 musicbrainz.org metabrainz.org * noop
 
+www.nintendo.com dsca.akamaiedge.net * noop
+www.nintendo.com g.akamaiedge.net * noop
+www.nintendo.com nintendo.eu * noop
+www.nintendo.com nintendo.net * noop
+
 www.openstreetbrowser.org fastly.net * noop
 www.openstreetbrowser.org openstreetmap.org * noop
 www.openstreetbrowser.org overpass-api.de * noop
