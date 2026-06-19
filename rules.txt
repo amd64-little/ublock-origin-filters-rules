@@ -58,7 +58,10 @@ www.gog.com b.akamaiedge.net * noop
 www.gog.com fastly.net * noop
 www.gog.com gog-statics.com * noop
 www.gog.com google.com * noop
+www.gog.com googlevideo.com * noop
+www.gog.com youtube-nocookie.com * noop
 www.gog.com youtube.com * noop
+www.gog.com ytimg.com * noop
 
 accounts.google.com gstatic.com * noop
 
