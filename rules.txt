@@ -9,6 +9,9 @@ www.amazon.com.au ssl-images-amazon.com * noop
 apps.apple.com apple.map.fastly.net * noop
 apps.apple.com mzstatic.com * noop
 
+recharge.boost.com.au gstatic.com * noop
+recharge.boost.com.au recaptcha.net * noop
+
 codeberg.page codeberg.org * noop
 
 discord.com cloudflare.com * noop
