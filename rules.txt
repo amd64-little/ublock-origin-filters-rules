@@ -54,6 +54,7 @@ github.com githubassets.com * noop
 github.com private-user-images.githubusercontent.com * noop
 github.com raw.githubusercontent.com * noop
 
+www.gog.com b.akamaiedge.net * noop
 www.gog.com fastly.net * noop
 www.gog.com gog-statics.com * noop
 
