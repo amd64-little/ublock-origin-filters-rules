@@ -61,6 +61,8 @@ www.facebook.com fbcdn.net * noop
 discussion.fedoraproject.org discourse-cdn.com * noop
 discussion.fedoraproject.org kxcdn.com * noop
 
+fwupd.org fastly.net * noop
+
 github.com avatars.githubusercontent.com * noop
 github.com camo.githubusercontent.com * noop
 github.com githubassets.com * noop
