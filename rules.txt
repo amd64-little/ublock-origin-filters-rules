@@ -50,6 +50,9 @@ www.ebay.com.au ebaystatic.com * noop
 
 www.exetel.com.au d11maem3x6cyir.cloudfront.net * noop
 
+eyrepizzeria.com.au amazonaws.com * noop
+eyrepizzeria.com.au d2ova09jg8x3xk.cloudfront.net * noop
+
 www.facebook.com fbcdn.net * noop
 
 discussion.fedoraproject.org discourse-cdn.com * noop
