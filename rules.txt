@@ -183,6 +183,7 @@ steamcommunity.com steamstatic.com * noop
 
 tailscale.com vercel-dns.com * noop
 
+data.typeracer.com fonts.googleapis.com * noop
 data.typeracer.com google.com * noop
 data.typeracer.com gstatic.com * noop
 
