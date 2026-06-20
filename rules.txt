@@ -5,6 +5,8 @@
 www.adelaidecomicandtoyfair.com d1cq301dpr7fww.cloudfront.net * noop
 www.adelaidecomicandtoyfair.com wixstatic.com * noop
 
+www.adelaidemetro.com.au geohub.sa.gov.au * noop
+
 www.amazon.com.au dscr.akamai.net * noop
 www.amazon.com.au media-amazon.com * noop
 www.amazon.com.au ssl-images-amazon.com * noop
