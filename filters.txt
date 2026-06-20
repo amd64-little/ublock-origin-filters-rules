@@ -1,6 +1,3 @@
-! Remove temporary pop-up to sign in on www.amazon.com.au.
-www.amazon.com.au##.nav-flyout.nav-signin-tt
-
 ! Remove temporary pop-up to check if the postcode is correct on www.amazon.com.au.
 www.amazon.com.au##.nav-flyout.nav-coreFlyout.glow-toaster-slot-default.glow-toaster-theme-default.glow-toaster.a-section
 
