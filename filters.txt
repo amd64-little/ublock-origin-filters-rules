@@ -32,3 +32,6 @@ www.reddit.com##.items-center.justify-between.flex.pb-2xs.pt-sm.px-md
 
 ! Remove "Sign in with Google" pop-up.
 ||accounts.google.com/gsi/iframe/select$subdocument
+
+! Remove "Sign in" pop-up on www.amazon.com and on every Top Level Domain.
+www.amazon.com.*##.nav-flyout.nav-signin-tt
