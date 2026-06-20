@@ -30,5 +30,5 @@ www.ebay.com.au###placement100379
 www.reddit.com##.search-answers-streaming-preview-text.nd\:hidden
 www.reddit.com##.items-center.justify-between.flex.pb-2xs.pt-sm.px-md
 
-! Remove "Sign in with Google" pop-up on www.gog.com.
-||accounts.google.com/gsi/iframe/select?client_id=685097056219-ioaidsgts2uc5p8h7acumic5ffkq61ec.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=0h02tbFaMhQUpOkgFSM0Hj8wxaLerzQQ6EEYTl1NMAo&bs=UnoYcmYbO0mHaljO9XCH6omI%2FwlquO0ybVaICZIgjbI&is_itp=true&channel_id=c074102201dfbc676510f604897a74b9ccd1d0558e2dd92624b1d6a063f41f2b&origin=https%3A%2F%2Fwww.gog.com&oauth2_auth_url=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth$subdocument
+! Remove "Sign in with Google" pop-up.
+||accounts.google.com/gsi/iframe/select$subdocument
