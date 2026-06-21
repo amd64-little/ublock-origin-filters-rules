@@ -201,6 +201,8 @@ steamcommunity.com valve.map.fastly.net * noop
 
 tailscale.com vercel-dns.com * noop
 
+clips.twitch.tv twitch.map.fastly.net * noop
+
 data.typeracer.com fonts.googleapis.com * noop
 data.typeracer.com google.com * noop
 data.typeracer.com gstatic.com * noop
