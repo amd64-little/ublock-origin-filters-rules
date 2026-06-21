@@ -195,6 +195,7 @@ www.startpage.com dhnphulxyocf.cloudfront.net * noop
 
 steamcommunity.com dscb.akamai.net * noop
 steamcommunity.com steamstatic.com * noop
+steamcommunity.com valve.map.fastly.net * noop
 
 tailscale.com vercel-dns.com * noop
 
