@@ -85,6 +85,8 @@ accounts.google.com gstatic.com * noop
 docs.google.com fonts.googleapis.com * noop
 docs.google.com gstatic.com * noop
 
+drive.google.com gstatic.com * noop
+
 gds.google.com gstatic.com * noop
 
 translate.google.com gstatic.com * noop
