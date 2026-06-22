@@ -160,6 +160,8 @@ pwn.college ytimg.com * noop
 
 discuss.python.org discourse-cdn.com * noop
 
+www.raspberrypi.com com.cdn.cloudflare.net * noop
+
 www.reddit.com google.com * noop
 www.reddit.com googlevideo.com * noop
 www.reddit.com gstatic.com * noop
