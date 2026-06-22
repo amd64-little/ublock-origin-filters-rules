@@ -21,6 +21,8 @@ apps.apple.com mzstatic.com * noop
 recharge.boost.com.au gstatic.com * noop
 recharge.boost.com.au recaptcha.net * noop
 
+citra-emulator.com wp.com * noop
+
 codeberg.page codeberg.org * noop
 
 www.codebymath.com bootstrapcdn.com * noop
