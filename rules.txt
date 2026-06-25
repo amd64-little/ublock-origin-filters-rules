@@ -67,6 +67,8 @@ discussion.fedoraproject.org kxcdn.com * noop
 
 fwupd.org fastly.net * noop
 
+www.geeksforgeeks.org d3tojzvpbuo41f.cloudfront.net * noop
+
 github.com avatars.githubusercontent.com * noop
 github.com camo.githubusercontent.com * noop
 github.com githubassets.com * noop
