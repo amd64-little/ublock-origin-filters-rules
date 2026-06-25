@@ -109,6 +109,9 @@ www.hackerrank.com website-files.com * noop
 
 kaksikoivua.hashnode.dev cloudflare.com * noop
 
+www.ibm.com dscx.akamaiedge.net * noop
+www.ibm.com s81c.com * noop
+
 www.ifixit.com algolianet.com * noop
 www.ifixit.com d1ulmmr4d4i8j4.cloudfront.net * noop
 www.ifixit.com d3nevzfk7ii3be.cloudfront.net * noop
