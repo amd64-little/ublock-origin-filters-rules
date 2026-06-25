@@ -18,7 +18,11 @@ www.amazon.com ssl-images-amazon.com * noop
 apps.apple.com apple.map.fastly.net * noop
 apps.apple.com mzstatic.com * noop
 
+recharge.boost.com.au braintree-api.com * noop
+recharge.boost.com.au braintreegateway.com * noop
+recharge.boost.com.au com.cdn.cloudflare.net * noop
 recharge.boost.com.au gstatic.com * noop
+recharge.boost.com.au paypal-h3-dynamic-cdn.map.fastly.net * noop
 recharge.boost.com.au recaptcha.net * noop
 
 citra-emulator.com wp.com * noop
