@@ -41,6 +41,9 @@ discord.com website-files.com * noop
 
 downdetector.com.au downdetector.com * noop
 
+passport.easyeda.com google.com * noop
+passport.easyeda.com gstatic.com * noop
+
 accounts.ebay.com.au a.akamaiedge.net * noop
 accounts.ebay.com.au ebay.map.fastly.net * noop
 accounts.ebay.com.au ebaystatic.com * noop
