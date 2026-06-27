@@ -226,6 +226,7 @@ tailscale.com vercel-dns.com * noop
 clips.twitch.tv twitch.map.fastly.net * noop
 
 www.twitch.tv d1ndex63qxojbr.cloudfront.net * noop
+www.twitch.tv jtvnw.net * noop
 www.twitch.tv twitch.map.fastly.net * noop
 
 data.typeracer.com fonts.googleapis.com * noop
