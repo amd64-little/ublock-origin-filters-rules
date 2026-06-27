@@ -74,6 +74,8 @@ www.facebook.com fbcdn.net * noop
 discussion.fedoraproject.org discourse-cdn.com * noop
 discussion.fedoraproject.org kxcdn.com * noop
 
+flathub.org fastly.net * noop
+
 fwupd.org fastly.net * noop
 
 www.geeksforgeeks.org d3tojzvpbuo41f.cloudfront.net * noop
