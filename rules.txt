@@ -167,6 +167,9 @@ www.openstreetbrowser.org fastly.net * noop
 www.openstreetbrowser.org openstreetmap.org * noop
 www.openstreetbrowser.org overpass-api.de * noop
 
+login.portswigger.net auth0.com * noop
+login.portswigger.net dp0wn1kjwhg75.cloudfront.net * noop
+
 www.privacyguides.org b-cdn.net * noop
 
 proton.me protonweb.com * noop
