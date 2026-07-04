@@ -112,6 +112,7 @@ translate.google.com gstatic.com * noop
 
 www.google.com googleusercontent.com * noop
 www.google.com gstatic.com * noop
+www.google.com streetviewpixels-pa.googleapis.com * noop
 
 hackerone.com dzladl4fbgrhb.cloudfront.net * noop
 hackerone.com hackerone-user-content.com * noop
