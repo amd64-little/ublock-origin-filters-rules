@@ -137,6 +137,8 @@ imgbb.com simgbb.com * noop
 
 www.instructables.com d38kwnbqqt6im9.cloudfront.net * noop
 
+ctf.itzdenkii.me cloudflare.com * noop
+
 www.jetpens.com b-cdn.net * noop
 www.jetpens.com d1a1nga21h4ee5.cloudfront.net * noop
 
