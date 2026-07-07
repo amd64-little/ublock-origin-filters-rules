@@ -73,6 +73,8 @@ eyrepizzeria.com.au d2ova09jg8x3xk.cloudfront.net * noop
 
 www.facebook.com fbcdn.net * noop
 
+kaoruhana.fandom.com nocookie.net * noop
+
 discussion.fedoraproject.org discourse-cdn.com * noop
 discussion.fedoraproject.org kxcdn.com * noop
 
