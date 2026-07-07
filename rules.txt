@@ -38,6 +38,9 @@ codeberg.page codeberg.org * noop
 
 www.codebymath.com bootstrapcdn.com * noop
 
+ctf101.org fonts.googleapis.com * noop
+ctf101.org gstatic.com * noop
+
 decomp.me cloudflare.com * noop
 
 discord.com cloudflare.com * noop
