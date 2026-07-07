@@ -153,6 +153,9 @@ www.linuxquestions.org cloudflare.com * noop
 www.mariokart64.com fonts.googleapis.com * noop
 www.mariokart64.com gstatic.com * noop
 
+developer.microsoft.com tm-azurefd.net * noop
+developer.microsoft.com z01.azurefd.net * noop
+
 mkwleaderboards.com jsdelivr.map.fastly.net * noop
 mkwleaderboards.com jsdelivr.net * noop
 
