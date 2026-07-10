@@ -180,6 +180,9 @@ musicbrainz.org metabrainz.org * noop
 
 accounts.nintendo.com b.akamaiedge.net * noop
 
+ec.nintendo.com g.akamaiedge.net * noop
+ec.nintendo.com nintendo.net * noop
+
 my.nintendo.com b.akamaiedge.net * noop
 
 www.nintendo.com dsca.akamaiedge.net * noop
