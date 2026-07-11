@@ -168,6 +168,8 @@ www.linuxquestions.org cloudflare.com * noop
 www.mariokart64.com fonts.googleapis.com * noop
 www.mariokart64.com gstatic.com * noop
 
+mega.nz mega.co.nz * noop
+
 developer.microsoft.com tm-azurefd.net * noop
 developer.microsoft.com z01.azurefd.net * noop
 
