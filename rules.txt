@@ -20,6 +20,8 @@ www.amazon.com amazon.map.fastly.net * noop
 www.amazon.com media-amazon.com * noop
 www.amazon.com ssl-images-amazon.com * noop
 
+ankiweb.net raw.githubusercontent.com * noop
+
 apps.apple.com apple.map.fastly.net * noop
 apps.apple.com mzstatic.com * noop
 
