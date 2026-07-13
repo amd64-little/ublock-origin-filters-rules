@@ -157,6 +157,7 @@ ctf.itzdenkii.me cloudflare.com * noop
 www.jetpens.com b-cdn.net * noop
 www.jetpens.com d1a1nga21h4ee5.cloudfront.net * noop
 
+jisho.org d1vjc5dkcd3yh2.cloudfront.net * noop
 jisho.org d28srgkdz8ln1r.cloudfront.net * noop
 
 api.kde.org 1088045785.rsc.cdn77.org * noop
