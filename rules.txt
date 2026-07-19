@@ -270,6 +270,8 @@ steamcommunity.com valve.map.fastly.net * noop
 
 tailscale.com vercel-dns.com * noop
 
+login.tailscale.com avatars.githubusercontent.com * noop
+
 clips.twitch.tv twitch.map.fastly.net * noop
 
 www.twitch.tv d1ndex63qxojbr.cloudfront.net * noop
