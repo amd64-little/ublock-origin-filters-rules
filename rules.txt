@@ -152,6 +152,7 @@ imgbb.com simgbb.com * noop
 
 www.instagram.com cdninstagram.com * noop
 www.instagram.com fbcdn.net * noop
+www.instagram.com fbsbx.com * noop
 
 www.instructables.com d38kwnbqqt6im9.cloudfront.net * noop
 
