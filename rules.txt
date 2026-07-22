@@ -150,6 +150,8 @@ www.ign.com ignimgs.com * noop
 
 imgbb.com simgbb.com * noop
 
+www.instagram.com cdninstagram.com * noop
+
 www.instructables.com d38kwnbqqt6im9.cloudfront.net * noop
 
 ctf.itzdenkii.me cloudflare.com * noop
