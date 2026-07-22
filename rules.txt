@@ -233,6 +233,8 @@ remywiki.com cloudflare.com * noop
 
 www.resetera.com cloudflare.com * noop
 
+login.seek.com cloudflare.com * noop
+
 guides.slsa.sa.gov.au libguides.com * noop
 
 soundcloud.com d15wdfb2rw9n2y.cloudfront.net * noop
