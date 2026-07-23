@@ -264,6 +264,7 @@ www.speedtest.net zd.map.fastly.net * noop
 open.spotify.com spotifycdn.com * noop
 open.spotify.com spotifycdn.map.fastly.net * noop
 
+deemix.squid.wtf deezer.map.fastly.net * noop
 deemix.squid.wtf dzcdn.net * noop
 deemix.squid.wtf w27.akamai.net * noop
 
