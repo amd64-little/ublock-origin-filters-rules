@@ -307,6 +307,8 @@ vimm.net gstatic.com * noop
 
 vx-underground.org cloudflare.com * noop
 
+www.wanikani.com dap7j6z6iz8sh.cloudfront.net * noop
+
 en.wikipedia.org wikimedia.org * noop
 
 en.wiktionary.org wikimedia.org * noop
