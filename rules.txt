@@ -243,6 +243,8 @@ au.seek.com seek.com.au * noop
 
 login.seek.com cloudflare.com * noop
 
+slsa.summon.serialssolutions.com d2ufhqj5234xow.cloudfront.net * noop
+
 catalog.slsa.sa.gov.au librarything.com * noop
 catalog.slsa.sa.gov.au syndetics.com * noop
 
