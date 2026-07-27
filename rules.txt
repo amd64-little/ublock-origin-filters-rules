@@ -237,6 +237,7 @@ remywiki.com cloudflare.com * noop
 
 www.resetera.com cloudflare.com * noop
 
+rwfc.net discord.com * noop
 rwfc.net google.com * noop
 rwfc.net youtube.com * noop
 rwfc.net ytimg.com * noop
