@@ -239,6 +239,7 @@ www.resetera.com cloudflare.com * noop
 
 rwfc.net google.com * noop
 rwfc.net youtube.com * noop
+rwfc.net ytimg.com * noop
 
 au.seek.com amazonaws.com * noop
 au.seek.com au.cdn.cloudflare.net * noop
