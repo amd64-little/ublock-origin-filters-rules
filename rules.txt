@@ -81,6 +81,7 @@ pay.ebay.com.au ebay.map.fastly.net * noop
 pay.ebay.com.au ebayimg-0.map.fastly.net * noop
 pay.ebay.com.au ebayimg.com * noop
 pay.ebay.com.au ebaystatic.com * noop
+pay.ebay.com.au r.akamai.net * noop
 
 signin.ebay.com.au a.akamaiedge.net * noop
 signin.ebay.com.au ebay.map.fastly.net * noop
