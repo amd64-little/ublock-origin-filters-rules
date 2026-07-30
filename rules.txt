@@ -47,6 +47,7 @@ ctf101.org gstatic.com * noop
 
 datacom.com dsca.akamaiedge.net * noop
 datacom.com jsdelivr.net * noop
+datacom.com mktocloud.com * noop
 datacom.com net.cdn.cloudflare.net * noop
 
 decomp.me cloudflare.com * noop
