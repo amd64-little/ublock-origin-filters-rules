@@ -67,6 +67,9 @@ accounts.ebay.com.au a.akamaiedge.net * noop
 accounts.ebay.com.au ebay.map.fastly.net * noop
 accounts.ebay.com.au ebaystatic.com * noop
 
+cart.ebay.com.au ebaystatic.com * noop
+cart.ebay.com.au r.akamai.net * noop
+
 order.ebay.com.au ebay.map.fastly.net * noop
 order.ebay.com.au ebayimg-0.map.fastly.net * noop
 order.ebay.com.au ebayimg.com * noop
