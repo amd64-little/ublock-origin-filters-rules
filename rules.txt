@@ -45,6 +45,7 @@ www.codebymath.com bootstrapcdn.com * noop
 ctf101.org fonts.googleapis.com * noop
 ctf101.org gstatic.com * noop
 
+datacom.com dsca.akamaiedge.net * noop
 datacom.com jsdelivr.net * noop
 datacom.com net.cdn.cloudflare.net * noop
 
