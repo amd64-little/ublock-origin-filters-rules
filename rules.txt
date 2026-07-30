@@ -86,6 +86,7 @@ www.ebay.com.au ebay.map.fastly.net * noop
 www.ebay.com.au ebayimg-0.map.fastly.net * noop
 www.ebay.com.au ebayimg.com * noop
 www.ebay.com.au ebaystatic.com * noop
+www.ebay.com.au r.akamai.net * noop
 
 www.exetel.com.au d11maem3x6cyir.cloudfront.net * noop
 
