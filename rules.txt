@@ -168,6 +168,8 @@ www.ign.com ignimgs.com * noop
 
 imgbb.com simgbb.com * noop
 
+imgur.com imgur.map.fastly.net * noop
+
 www.instagram.com cdninstagram.com * noop
 www.instagram.com fbcdn.net * noop
 www.instagram.com fbsbx.com * noop
