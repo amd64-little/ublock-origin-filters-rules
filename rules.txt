@@ -133,6 +133,8 @@ www.gog.com ytimg.com * noop
 
 accounts.google.com gstatic.com * noop
 
+www.google.com.au googleusercontent.com * noop
+
 docs.google.com fonts.googleapis.com * noop
 docs.google.com gstatic.com * noop
 
