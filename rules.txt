@@ -194,6 +194,8 @@ kernel.org fastly.net * noop
 
 ko-fi.com cloudflare.com * noop
 ko-fi.com com.cdn.cloudflare.net * noop
+ko-fi.com fonts.googleapis.com * noop
+ko-fi.com gstatic.com * noop
 ko-fi.com paypal-dynamic.map.fastly.net * noop
 ko-fi.com paypal.com * noop
 ko-fi.com paypalobjects.com * noop
