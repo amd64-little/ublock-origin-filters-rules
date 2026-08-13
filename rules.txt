@@ -193,6 +193,10 @@ discuss.kde.org 1898395290.rsc.cdn77.org * noop
 kernel.org fastly.net * noop
 
 ko-fi.com cloudflare.com * noop
+ko-fi.com com.cdn.cloudflare.net * noop
+ko-fi.com paypal-dynamic.map.fastly.net * noop
+ko-fi.com paypal.com * noop
+ko-fi.com paypalobjects.com * noop
 
 www.linuxquestions.org cloudflare.com * noop
 
