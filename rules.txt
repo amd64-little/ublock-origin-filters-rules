@@ -219,6 +219,8 @@ musicbrainz.org acoustid.org * noop
 musicbrainz.org archive.org * noop
 musicbrainz.org metabrainz.org * noop
 
+users.nexusmods.com cloudflare.com * noop
+
 accounts.nintendo.com b.akamaiedge.net * noop
 
 ec.nintendo.com g.akamaiedge.net * noop
