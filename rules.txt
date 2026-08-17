@@ -223,6 +223,7 @@ users.nexusmods.com cloudflare.com * noop
 
 www.nexusmods.com googlevideo.com * noop
 www.nexusmods.com youtube.com * noop
+www.nexusmods.com ytimg.com * noop
 
 accounts.nintendo.com b.akamaiedge.net * noop
 
