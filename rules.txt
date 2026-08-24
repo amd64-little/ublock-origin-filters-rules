@@ -12,6 +12,9 @@ agrohacksstuff.io gstatic.com * noop
 agrohacksstuff.io jsdelivr.net * noop
 agrohacksstuff.io net.cdn.cloudflare.net * noop
 
+www.aliexpress.com aliexpress-media.com * noop
+www.aliexpress.com b.akamai.net * noop
+
 www.amazon.com.au dscr.akamai.net * noop
 www.amazon.com.au media-amazon.com * noop
 www.amazon.com.au ssl-images-amazon.com * noop
