@@ -12,6 +12,7 @@ agrohacksstuff.io gstatic.com * noop
 agrohacksstuff.io jsdelivr.net * noop
 agrohacksstuff.io net.cdn.cloudflare.net * noop
 
+www.aliexpress.com alibabadns.com * noop
 www.aliexpress.com aliexpress-media.com * noop
 www.aliexpress.com b.akamai.net * noop
 www.aliexpress.com b.akamaiedge.net * noop
