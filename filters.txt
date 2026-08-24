@@ -32,3 +32,7 @@ www.reddit.com##.items-center.justify-between.flex.pb-2xs.pt-sm.px-md
 
 ! Remove "Sign in" pop-up on www.amazon.com and on every Top Level Domain.
 www.amazon.com.*##.nav-flyout.nav-signin-tt
+
+! Remove the AI overview on an AliExpress product page.
+www.aliexpress.com##div:nth-of-type(9)
+www.aliexpress.com##.pdp-info-right > div.split-line--wrap--dVhU29K > .comet-v2-divider-small.comet-v2-divider
