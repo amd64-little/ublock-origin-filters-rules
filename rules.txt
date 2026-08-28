@@ -387,3 +387,5 @@ www.youtube.com googleusercontent.com * noop
 www.youtube.com googlevideo.com * noop
 www.youtube.com gstatic.com * noop
 www.youtube.com ytimg.com * noop
+
+www.yuntrack.com aliyunwaf4.com * noop
